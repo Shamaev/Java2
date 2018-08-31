@@ -49,36 +49,5 @@ public class Main {
         phone.print();
 
         phone.get("Семенов");
-
-
-
-//        TreeMap<String, String> tel = new TreeMap<>();
-//        tel.put("Голубев", "+79648077863");
-//        tel.put("Смирнов", "+79648047845");
-//        tel.put("Кузнецов", "+79645077811");
-//        tel.put("Голубев", "+796480777866");
-//        tel.put("Петров", "+79648999809");
-//        tel.put("Сомов", "+79648807867");
-//
-//        System.out.println(tel);
-//        System.out.println();
-//
-//        String a = "Голубев ";
-//        System.out.println("Вы ищите: " + a);
-//
-//        Set<Map.Entry<String, String>> tl = tel.entrySet();
-//        System.out.println(tl);
-//
-//        for (Map.Entry<String, String> me : tl) {
-//            if (me.getKey() == a) {
-//                System.out.println(me.getKey() + " " + me.getValue());
-//            }
-//        }
-
-
-
-
-
-
     }
 }
